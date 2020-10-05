@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href = "songstyle.css" ?>
+<songs>
+    <song>
+    <heading>Set List</heading>
+    </song>
+    <song>
+        <title>Jessie's Girl
+        </title>
+        <artist>
+            Rick Springfield,
+        </artist>
+        <year>1981,
+        </year>
+        <genre>Pop
+        </genre>
+    </song>
+
+    <song>
+        <title>What's Love Got to Do with it,
+        </title>
+        <artist>
+            Tina Turner,
+        </artist>
+        <year>1984,
+        </year>
+        <genre>Pop
+        </genre>
+    </song>
+
+    <song>
+        <title>Billie Jean
+        </title>
+        <artist>Michael Jackson,
+        </artist>
+        <year>1988,
+        </year>
+        <genre>Pop
+        </genre>
+    </song>
+
+    <song>
+        <title>If I Could Turn Back Time
+        </title>
+        <artist>Cher,
+        </artist>
+        <year>1989,
+        </year>
+        <genre>Pop
+        </genre>
+    </song>
+
+    <song>
+        <title>Lay All Your Love On Me
+        </title>
+        <artist>ABBA,
+        </artist>
+        <year>1981,
+        </year>
+        <genre>Pop
+        </genre>
+    </song>
+
+    <song>
+        <title>Take On Me
+        </title>
+        <artist>a-ha,
+        </artist>
+        <year>1984,
+        </year>
+        <genre>Pop
+        </genre>
+    </song>
+
+    <song>
+        <title>I Won't Back Down
+        </title>
+        <artist>Tom Petty,
+        </artist>
+        <year>1989,
+        </year>
+        <genre>Rock
+        </genre>
+    </song>
+
+    <song>
+        <title>You Give Love a Bad Name
+        </title>
+        <artist>Bon Jovi,
+        </artist>
+        <year>1986,
+        </year>
+        <genre>Rock
+        </genre>
+    </song>
+
+    <song>
+        <title>Africa
+        </title>
+        <artist>Toto,
+        </artist>
+        <year>1981,
+        </year>
+        <genre>Rock
+        </genre>
+    </song>
+
+    <song>
+        <title>Never Gonna Give You Up
+        </title>
+        <artist>Rick Astley,
+        </artist>
+        <year>1987,
+        </year>
+        <genre>Pop
+        </genre>
+    </song>
+</songs>
